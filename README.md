@@ -7,4 +7,8 @@ Project Features
 5. Each User can only view his event and shared event to him on Dashboard
 
 
-change datatabse connection as per your server configuration. and import sql file in databse attached in repository
+Change datatabse connection as per your server configuration. and import sql file in databse attached in repository.
+
+If you face any error related to guzzle/cUrl, please for below link to change some config in your local machine
+https://stackoverflow.com/questions/29822686/curl-error-60-ssl-certificate-unable-to-get-local-issuer-certificate
+
